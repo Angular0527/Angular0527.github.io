@@ -157,6 +157,11 @@ main {
   padding-left: 190px;
 }
 
+.card .card-reveal {
+  background-color: #261355 !important;
+  color: white !important;
+}
+
 dl {
   margin-top: 0.5rem;
 }
