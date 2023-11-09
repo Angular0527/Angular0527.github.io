@@ -21,11 +21,13 @@
 }
 
 .tracker {
-  /* visibility: hidden; */
   position: fixed;
-  /* margin-inline-end: auto;  */
   bottom: 0; 
   right: 0;
+}
+
+.card .m2 {
+  margin-bottom: 20px !important;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
